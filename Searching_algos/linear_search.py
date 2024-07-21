@@ -11,3 +11,5 @@ def linearsearch(A,key):
 A = [21,27,45,87,63]
 element = linearsearch(A,45)
 print(element)
+
+# Time complexity : O(n)

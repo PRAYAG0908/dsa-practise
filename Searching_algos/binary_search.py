@@ -1,0 +1,1 @@
+#Better search technique than linear search. Array must be in a sorted order.
