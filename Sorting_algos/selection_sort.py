@@ -1,4 +1,4 @@
-#This is a Comparison Based Sorting Algorithm. Sorting is a process of rearranging the elements, the goal is to rearrange the elements in sorted order, either ascending or descending order. Time Complexity for Rearranging O(n^2) [n(n-1)/2] and for swapping is A[n]
+#This is a Comparison Based Sorting Algorithm. Sorting is a process of rearranging the elements, the goal is to rearrange the elements in sorted order, either ascending or descending order. It is a Unstable ALgorithm. Time Complexity for Rearranging O(n^2) [n(n-1)/2] and for swapping is O[n]
 
 def selectionsort(A):
     n = len(A)
